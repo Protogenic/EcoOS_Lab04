@@ -1,8 +1,0 @@
-Archive member included to satisfy reference by file (symbol)
-
-..\..\..\..\Eco.TaskScheduler1Lab\BuildFiles\BCM283x\arm64-v8a\StaticRelease\lib902ABA722D34417BB714322CC761620F.a(CEcoTaskScheduler1LabFactory.o)
-                              C:\Users\Kirill\AppData\Local\Temp\ccP0Hx6U.o (GetIEcoComponentFactoryPtr_902ABA722D34417BB714322CC761620F)
-..\..\..\..\Eco.TaskScheduler1Lab\BuildFiles\BCM283x\arm64-v8a\StaticRelease\lib902ABA722D34417BB714322CC761620F.a(CEcoTaskScheduler1Lab.o)
-                              ..\..\..\..\Eco.TaskScheduler1Lab\BuildFiles\BCM283x\arm64-v8a\StaticRelease\lib902ABA722D34417BB714322CC761620F.a(CEcoTaskScheduler1LabFactory.o) (initCEcoTaskScheduler1Lab_C761620F)
-..\..\..\..\Eco.TaskScheduler1Lab\BuildFiles\BCM283x\arm64-v8a\StaticRelease\lib902ABA722D34417BB714322CC761620F.a(CEcoTask1Lab.o)
-                              ..\..\..\..\Eco.TaskScheduler1Lab\BuildFiles\BCM283x\arm64-v8a\StaticRelease\lib902ABA722D34417BB714322CC761620F.a(CEcoTaskScheduler1Lab.o) (g_x81A466F4C27540B1B33D0661E5470F1BVTbl_C761620F)
